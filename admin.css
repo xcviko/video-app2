@@ -1,0 +1,26 @@
+table.user-stats {
+  margin: 10px;
+  border-collapse: collapse;
+  border: 1px double gray;
+}
+
+table.user-stats td,
+table.user-stats th {
+  padding: 10px;
+  border: 1px solid gray;
+  max-width: 125px;
+  overflow: visible;
+}
+
+table.user-stats td {
+  white-space: nowrap;
+}
+
+table.user-stats td:nth-child(22),
+table.user-stats td:nth-child(26),
+table.user-stats td:nth-child(30),
+table.user-stats td:nth-child(34),
+table.user-stats td:nth-child(38),
+table.user-stats td:nth-child(42) {
+  background-color: lightgray;
+}

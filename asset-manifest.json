@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.js": "./static/js/main.0f891449.js",
+    "static/js/424.76cdbc42.chunk.js": "./static/js/424.76cdbc42.chunk.js",
+    "static/js/597.61f566d8.chunk.js": "./static/js/597.61f566d8.chunk.js",
+    "static/js/613.66ab5b37.chunk.js": "./static/js/613.66ab5b37.chunk.js",
+    "static/css/82.5ab66dc7.chunk.css": "./static/css/82.5ab66dc7.chunk.css",
+    "static/js/82.e6686dbd.chunk.js": "./static/js/82.e6686dbd.chunk.js",
+    "static/js/534.b259a06b.chunk.js": "./static/js/534.b259a06b.chunk.js",
+    "static/js/108.d812e35c.chunk.js": "./static/js/108.d812e35c.chunk.js",
+    "static/js/449.8db62632.chunk.js": "./static/js/449.8db62632.chunk.js",
+    "static/js/125.e551e90c.chunk.js": "./static/js/125.e551e90c.chunk.js",
+    "static/js/168.5cf455a9.chunk.js": "./static/js/168.5cf455a9.chunk.js",
+    "static/css/392.a8b47aad.chunk.css": "./static/css/392.a8b47aad.chunk.css",
+    "static/js/392.40713ffa.chunk.js": "./static/js/392.40713ffa.chunk.js",
+    "static/media/Дорога в портал.mp4": "./static/media/Дорога в портал.25806539b5161d2dfc03.mp4",
+    "static/media/Результаты.mp4": "./static/media/Результаты.4f7e882d6a863832b0eb.mp4",
+    "static/media/ДНК - 1.mp4": "./static/media/ДНК - 1.db146ec4dbb80dcc025e.mp4",
+    "static/media/Видео конец портала.mp4": "./static/media/Видео конец портала.aaf4a894deed19ae586a.mp4",
+    "static/media/story.png": "./static/media/story.161508caf0231ae0000f.png",
+    "static/media/Видео конец портала после нажатия на кнопку продолжить.mp4": "./static/media/Видео конец портала после нажатия на кнопку продолжить.53915db2e00737f490f2.mp4",
+    "static/media/ava.png": "./static/media/ava.c77e63e917529d4372f1.png",
+    "static/media/ava2.png": "./static/media/ava2.ae6698cae346dc33e0d5.png",
+    "static/media/main.png": "./static/media/main.85c4ea9e16aff449a841.png",
+    "static/media/productImage.png": "./static/media/productImage.97c21931f2156dfa2726.png",
+    "static/media/gradient.png": "./static/media/gradient.e9de2d6d26a01d97fef8.png",
+    "static/media/waves.png": "./static/media/waves.60b6d3dcc9e73bd492df.png",
+    "index.html": "./index.html"
+  },
+  "entrypoints": [
+    "static/js/main.0f891449.js"
+  ]
+}
